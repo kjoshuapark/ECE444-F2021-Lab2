@@ -2,7 +2,7 @@
 
 Kieun Joshua Park
 
-This repo is a clone of https://github.com/miguelgrinberg/flask
+This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 1 Screenshot
 ![Alt text](https://github.com/kjoshuapark/ECE444-F2021-Lab2/blob/main/screenshots/Screen%20Shot%202021-09-25%20at%204.33.09%20PM.png)
