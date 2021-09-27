@@ -18,3 +18,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 4 Step 3 Screenshot
 ![Alt text](https://github.com/kjoshuapark/ECE444-F2021-Lab2/blob/main/screenshots/Screen%20Shot%202021-09-26%20at%207.59.45%20PM.png)
+
+## Activity 4 Step 4 Screenshot
+![Alt text](https://github.com/kjoshuapark/ECE444-F2021-Lab2/blob/main/screenshots/Screen%20Shot%202021-09-26%20at%208.03.55%20PM.png)
